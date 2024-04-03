@@ -1,2 +1,2 @@
-from src.__main__ import main
+from src.main import main
 main()
